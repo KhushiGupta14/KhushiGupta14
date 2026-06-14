@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
 
-<!--
-**KhushiGupta14/KhushiGupta14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+☕ Java Enthusiast • 🧩 OOP Explorer • 🚀 Backend Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🎓 MCA Student at VIT Bhopal University
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+🏆 University Topper | 🥇 Code Guru Coding Competition Winner
+</p>
+
+<p align="center">
+💡 Passionate about transforming ideas into scalable software solutions
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- ☕ Passionate about **Core Java** and **Object-Oriented Programming**
+- 🚀 Building backend applications using **Java, Spring Boot & MySQL**
+- 🧠 Strengthening problem-solving skills through **Data Structures & Algorithms**
+- 💻 Experienced in developing full-stack projects with **Java, React and Spring Boot**
+- 🌱 Continuously learning and exploring software engineering best practices
+- 🎯 Aspiring Software Development Engineer
+
+---
+
+> ✨ "Code with logic. Build with purpose. Learn without limits."
