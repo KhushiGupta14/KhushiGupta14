@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=☕+Passionate+about+Core+Java;🧩+Object-Oriented+Programming+Explorer;🚀+Building+with+Spring+Boot;💻+Backend+Development+Enthusiast;⚡+DSA+Learner+and+Problem+Solver;🏆+University+Topper;🎯+Future+Software+Development+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=☕+Java+Developer;🧩+Core+Java+Enthusiast;🚀+Object-Oriented+Programming+Lover;⚡+Spring+Boot+Developer;💡+Data+Structures+%26+Algorithms;🎯+Aspiring+Software+Development+Engineer;🏆+University+Topper;💻+Backend+Development+Enthusiast" />
 </p>
 
 <p align="center">
