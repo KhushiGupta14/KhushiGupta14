@@ -49,6 +49,11 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,eclipse" />
+</p>
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -75,11 +80,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KhushiGupta14&theme=tokyonight" />
 </p>
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,eclipse" />
-</p>
-
----
 
 > ✨ "Code with logic. Build with purpose. Learn without limits."
