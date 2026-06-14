@@ -43,14 +43,18 @@ public class KhushiGupta {
 
 ## 🚀 Tech Stack
 
-![Java](https://img.shields.io/badge/JAVA-orange?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge)
-![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/GIT-red?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
 ---
 
 ## 🌐 Connect With Me
