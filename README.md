@@ -83,10 +83,10 @@ Ticket management system featuring CRUD operations, search functionality, and Sp
 
 ---
 
-## 🏆 GitHub Achievements
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KhushiGupta14&theme=algolia&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiGupta14&theme=tokyo-night" />
 </p>
 ---
 
