@@ -27,7 +27,7 @@
 - 🌱 Continuously learning and exploring software engineering best practices
 - 🎯 Aspiring Software Development Engineer
 
-  ## 🚀 Tech Stack
+## 🚀 Tech Stack
 
 ### Programming Languages
 <p>
