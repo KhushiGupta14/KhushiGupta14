@@ -74,13 +74,13 @@ public class KhushiGupta {
 
 ---
 
-## 📈 Contribution Graph
+<!--## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiGupta14&theme=tokyo-night" />
 </p>
 
----
+--- 
 
 ## 📊 GitHub Stats
 
@@ -93,7 +93,7 @@ public class KhushiGupta {
 </p>
 
 ---
-
+-->
 <h3 align="center">
 ⭐ Turning ideas into code, and code into impactful solutions ⭐
 </h3>
