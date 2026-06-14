@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=500&center=true&vCenter=true&width=800&lines=Core+Java+%7C+OOP+%7C+Spring+Boot;DSA+%7C+Backend+Development+%7C+React;University+Topper+%7C+MCA+Student+%7C+SDE+Aspiring">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=500&center=true&vCenter=true&width=850&lines=Core+Java+|+OOP+|+Spring+Boot;DSA+|+Backend+Development+|+React;REST+APIs+|+MySQL+|+Problem+Solver;University+Topper+|+MCA+Student+|+SDE+Aspiring">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KhushiGupta14&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
@@ -10,14 +14,16 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - ☕ Passionate about **Core Java** and **Object-Oriented Programming**
 - 🚀 Building backend applications using **Java, Spring Boot & MySQL**
 - 🧠 Strengthening problem-solving skills through **Data Structures & Algorithms**
-- 💻 Experienced in developing full-stack projects with **Java, React and Spring Boot**
+- 💻 Built multiple full-stack applications using **Java, Spring Boot, React.js, and MySQL**
 - 🌱 Continuously learning and exploring software engineering best practices
 - 🎯 Aspiring Software Development Engineer
+
+---
 
 ## 🚀 Tech Stack
 
@@ -46,6 +52,21 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,eclipse" />
 </p>
 
+---
+
+## 🚀 Featured Projects
+
+### 🚗 Uniride Connect
+Full-stack ride-sharing platform for students built using Java, Spring Boot, React.js, and MySQL.
+
+### ✅ Todo Application
+Task management application with REST APIs, Spring Boot, React.js, and MySQL.
+
+### 🎫 Ticket Tracker Application
+Ticket management system featuring CRUD operations, search functionality, and Spring Boot backend.
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -60,6 +81,16 @@
   </a>
 </p>
 
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KhushiGupta14&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -71,4 +102,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KhushiGupta14&theme=tokyonight" />
 </p>
 
-> ✨ "Code with logic. Build with purpose. Learn without limits."
+---
+
+<h3 align="center">
+⭐ Turning ideas into code, and code into impactful solutions ⭐
+</h3>
