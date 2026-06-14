@@ -54,19 +54,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🚗 Uniride Connect
-Full-stack ride-sharing platform for students built using Java, Spring Boot, React.js, and MySQL.
-
-### ✅ Todo Application
-Task management application with REST APIs, Spring Boot, React.js, and MySQL.
-
-### 🎫 Ticket Tracker Application
-Ticket management system featuring CRUD operations, search functionality, and Spring Boot backend.
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
