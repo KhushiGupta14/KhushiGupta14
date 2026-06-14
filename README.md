@@ -14,14 +14,19 @@
 
 ---
 
-## 👩‍💻 About Me
+## 🙋‍♀️ About Me
 
-- ☕ Passionate about **Core Java** and **Object-Oriented Programming**
-- 🚀 Building backend applications using **Java, Spring Boot & MySQL**
-- 🧠 Strengthening problem-solving skills through **Data Structures & Algorithms**
-- 💻 Built multiple full-stack applications using **Java, Spring Boot, React.js, and MySQL**
-- 🌱 Continuously learning and exploring software engineering best practices
-- 🎯 Aspiring Software Development Engineer
+```java
+const khushi = {
+    role: "MCA Student @ VIT Bhopal",
+    passion: ["Core Java", "OOP", "Spring Boot"],
+    currentFocus: "Backend Development",
+    learning: "DSA & Software Engineering",
+    projects: ["Uniride Connect", "Todo App", "Ticket Tracker"],
+    goal: "Become a Software Development Engineer 🚀",
+    funFact: "I enjoy turning ideas into real-world applications ✨"
+};
+```
 
 ---
 
