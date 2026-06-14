@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
 
-<h3 align="center">
-☕ Java Enthusiast • 🧩 OOP Explorer • 🚀 Backend Developer
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=☕+Passionate+about+Core+Java;🧩+Object-Oriented+Programming+Explorer;🚀+Building+with+Spring+Boot;💻+Backend+Development+Enthusiast;⚡+DSA+Learner+and+Problem+Solver;🏆+University+Topper;🎯+Future+Software+Development+Engineer" />
+</p>
 
 <p align="center">
 🎓 MCA Student at VIT Bhopal University
