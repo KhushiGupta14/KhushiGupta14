@@ -55,6 +55,7 @@ public class KhushiGupta {
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=postman" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
@@ -78,6 +79,7 @@ public class KhushiGupta {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiGupta14&theme=tokyo-night" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats
