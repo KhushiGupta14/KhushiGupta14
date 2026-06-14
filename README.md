@@ -16,16 +16,29 @@
 
 ## 🙋‍♀️ About Me
 
+## 🙋‍♀️ About Me
+
 ```java
-const khushi = {
-    role: "MCA Student @ VIT Bhopal",
-    passion: ["Core Java", "OOP", "Spring Boot"],
-    currentFocus: "Backend Development",
-    learning: "DSA & Software Engineering",
-    projects: ["Uniride Connect", "Todo App", "Ticket Tracker"],
-    goal: "Become a Software Development Engineer 🚀",
-    funFact: "I enjoy turning ideas into real-world applications ✨"
-};
+public class KhushiGupta {
+
+    String role = "MCA Student @ VIT Bhopal";
+
+    String[] interests = {
+        "Core Java",
+        "Object-Oriented Programming",
+        "Spring Boot",
+        "Backend Development",
+        "Data Structures & Algorithms"
+    };
+
+    String currently = "Building Java-based applications";
+    
+    String goal = "Software Development Engineer";
+
+    String achievement = "University Topper & Code Guru Winner";
+
+    boolean openToLearning = true;
+}
 ```
 
 ---
