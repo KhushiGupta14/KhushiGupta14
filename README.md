@@ -27,6 +27,33 @@
 - 🌱 Continuously learning and exploring software engineering best practices
 - 🎯 Aspiring Software Development Engineer
 
+  ## 🚀 Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,eclipse" />
+</p>
+
 ---
 
 > ✨ "Code with logic. Build with purpose. Learn without limits."
