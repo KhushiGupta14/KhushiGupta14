@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Developer;Core+Java+Enthusiast;OOP+Explorer;Spring+Boot+Developer&center=true&width=500&height=50">
-</p>
-
-<p align="center">
-🎓 MCA Student at VIT Bhopal University
-</p>
-
-<p align="center">
-🏆 University Topper | 🥇 Code Guru Coding Competition Winner
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=600&color=36BCF7&center=true&vCenter=true&width=900&lines=☕+Core+Java+%7C+🧩+OOP+%7C+🚀+Spring+Boot;💡+DSA+%7C+⚡+Backend+Development+%7C+💻+React;🏆+University+Topper+%7C+🎯+SDE+Aspiring+%7C+🌱+Continuous+Learner" />
 </p>
 
 <p align="center">
